@@ -13,13 +13,13 @@ const Home = () => {
 			<Navbar />
 			<Jumbotron />
 			<div className="row">
-				<div className="col-3"><Card />
+				<div className="col-md-3 col-sm-12"><Card />
 				</div>
-				<div className="col-3"><Card />
+				<div className="col-md-3 col-sm-12"><Card />
 				</div>
-				<div className="col-3"><Card />
+				<div className="col-md-3 col-sm-12 "><Card />
 				</div>
-				<div className="col-3"><Card />
+				<div className="col-md-3 col-sm-12"><Card />
 				</div>
 			</div>
 

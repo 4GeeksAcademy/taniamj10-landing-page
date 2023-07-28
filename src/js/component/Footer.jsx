@@ -6,7 +6,7 @@ import React from "react";
 const Footer = () => {
     return (
         <>
-            <div style={{backgroundColor: "black"}} className= "text-center p-4">
+            <div style={{backgroundColor: "black"}} className= "text-center p-4 mt-5">
                
                     
                         <h6  className="text-center"style={{color: "white"}} > 
